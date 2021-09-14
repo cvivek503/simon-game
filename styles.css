@@ -2,6 +2,13 @@ body {
   text-align: center;
   background-color: #033b32dc;
 }
+p{ 
+ 
+  text-align: left;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 10px;
+  margin-block-start: 0;
+}
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
